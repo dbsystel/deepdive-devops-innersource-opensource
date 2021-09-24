@@ -1,0 +1,145 @@
+== Inner Source
+[.notes]
+--
+* Slides über InnerSource
+* Zeigen, wie im Präsentatoren-Team zu den Slides beigetragen werden kann
+* Frage an die Teilnehmer
+* Q&A
+--
+
+=== Was ist Inner Source?
+
+[quote, 'From link:https://en.wikipedia.org/wiki/Inner_source[Wikipedia]']
+„*Inner source* is the use of open source software development best practices and the establishment of an *open source-like culture within organizations*. The organization may still develop proprietary software, but internally opens up its development. The term was coined by Tim O'Reilly in 2000.“
+
+[.notes]
+--
+Wir zäumen das Pferd hier ein bisschen von hinten auf. Open Source kommt erst noch. Wir wollen trotzdem versuchen, uns von innen nach außen zu nähern, und zum Schluß den Kreis zu schließen.
+--
+
+[.columns.is-vcentered]
+=== Transparenz
+[.pattern-jigsaw]
+--
+
+--
+
+[.column]
+image:fence.jpg[]
+
+[.column]
+* Jeder sieht den Code
+* Voneinander Lernen
+* Qualitäts-Motivation
+
+
+=== Maintainer
+[.pattern-jigsaw]
+--
+
+--
+
+[.notes]
+--
+* Owner eines Projektes
+* Based on merits
+* Eigenmotivation
+--
+
+
+[.columns.is-vcentered]
+=== Inner Source Lizenz
+[.pattern-jigsaw]
+--
+
+--
+
+[.column]
+--
+* Rechtliche Grundlage
+* Standardisierte Bedingungen
+* Signal für Offenheit
+
+[.small]
+https://github.com/dbsystel/open-source-policies
+--
+
+[.column]
+image:dbisl.png[width=70%]
+
+
+[.columns.is-vcentered]
+=== Inner Source Patterns
+
+[.column]
+--
+* Erfolgreiche Inner-Source-Taktiken
+* Firmen-Erfahrungen
+* InnerSource Commons Community
+
+[.small]
+https://patterns.innersourcecommons.org/
+--
+
+[.column]
+image:innersource-patterns-book-cover.jpeg[width=55%]
+
+=== Barrieren abbauen
+
+[.notes]
+--
+Teams innerhalb der Firma arbeiten zusammen.
+--
+
+=== Zusammenarbeit
+
+* Große Herausforderung
+* 1% Regel
+
+Nach welchem Muster gelingt es?
+
+[.notes]
+--
+Kein Muster, sondern eine Herausforderung
+Klappt oft nicht
+1% Regel: In einer Community sind 1% der Mitglieder aktiv
+
+Anreizsysteme belohnen oft nicht teamübergreifendes Engagement
+Publikum ist durch Firmengröße begrenzt
+--
+
+=== Git Flow
+[.pattern-jigsaw]
+--
+
+--
+
+image:github-flow.png[]
+
+Von https://guides.github.com/introduction/flow/
+
+[.notes]
+--
+Arbeiten direkt auf dem Code
+Siehe Everything as Code
+
+* Änderungen as Pull Request
+* Code Review
+* Anpassungen im Pull Request
+* Annehmen der Änderung
+* Automatisiertes Deployment
+
+siehe auch: Issue templates / MR templates
+--
+
+=== Hands-on Demo
+https://github.com/dbsystel/deep-dive-devops-innersource-opensource
+
+[.notes]
+--
+* Sprecher A zu Sprecher B: Du, ich hätte da noch einen Vorschlag
+* Sprecher A: Vorschlag als Pull Request erstellen
+* Sprecher B: Pull Request Mergen
+* Zeigen, wie die Pipeline läuft
+* Angepasste Slides zeigen
+--

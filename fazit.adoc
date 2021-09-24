@@ -1,0 +1,36 @@
+== Fazit
+
+=== Der Kreis schließt sich
+
+Muster wiederholen sich:
+
+* Barrieren abbauen
+* Intrinsische Motivation
+* Ownership
+
+=== Kontakt
+
+Johannes Dienst <johannes.dienst@deutschebahn.com>
+
+Twitter: https://twitter.com/JohannesDienst[@JohannesDienst], GitHub: https://github.com/JohannesDienstDBSystel[JohannesDienstDBSystel]
+
+---
+
+Cornelius Schumacher <cornelius.schumacher@deutschebahn.com>
+
+Twitter: https://twitter.com[@cschum], GitHub: https://github.com/cornelius[cornelius]
+
+
+include::feedback.adoc[]
+
+[.notes]
+--
+Von den Teilnehmer per Pull-Request zu befüllen
+Eventuell in eigenes File verlagern und hier includen, um das Editieren einfacher zu machen
+--
+
+=== Attributions
+
+* https://commons.wikimedia.org/wiki/File:Puzzle.svg[Puzzle.svg] by Ganeshk under Creative Commons Attribution-Share Alike 3.0 Unported
+* Fence by https://unsplash.com/@randyfath?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText[Randy Fath] on https://unsplash.com/s/photos/fence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText[Unsplash]
+* The OSI logo trademark is the trademark of https://opensource.org[Open Source Initiative]

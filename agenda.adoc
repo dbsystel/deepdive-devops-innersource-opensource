@@ -1,0 +1,55 @@
+[.columns.is-vcentered]
+== Speaker
+
+[.column]
+--
+image:johannes_dienst.jpg[]
+
+Johannes Dienst
+--
+
+[.column]
+--
+image:cornelius_schumacher.jpg[]
+
+Cornelius Schumacher
+--
+
+=== Agenda
+
+1. DevOps
+2. Inner Source
+3. Open Source
+
+[.notes]
+--
+* Format erklären
+* 3 * 30 Minuten, jeweils:
+* Slides als Impuls
+* Hands-on Demo
+* Fragen, Diskussion
+* Nicht vergessen zu erwähnen: Github-Account für Teilnahme notwendig
+--
+
+=== Muster
+
+image:Puzzle.svg[]
+
+[.notes]
+--
+Wir werden Muster (des Gelingens) mit dem Puzzle-Symbol kennzeichnen.
+Manche Muster tauchen in den drei Bereichen wiederholt auf, in der selben Form oder einer Variante
+--
+
+=== Frage an die Teilnehmer
+
+Würdest du dich als Techie einordnen?
+
+1. Ja
+2. Nein
+3. Möchte mich nicht festlegen
+
+[.notes]
+--
+Hier fügen wir im Hands-on von Teil 1 die Antworten ein.
+--

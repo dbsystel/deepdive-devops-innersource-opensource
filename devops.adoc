@@ -1,0 +1,56 @@
+== DevOps
+
+=== You build it you run it
+[.pattern-jigsaw]
+--
+
+--
+
+=== Ende-zu-Ende Verantwortung
+
+=== Autonome, cross-funktionale Teams
+
+[%step]
+Dev und Ops wachsen zusammen.
+
+=== Everything as Code
+[.pattern-jigsaw]
+--
+
+--
+
+=== Slides as Code
+[.pattern-jigsaw]
+--
+
+--
+
+[%step]
+* AsciiDoc-Code als Quelle für die Slides
+* GitHub Actions Pipeline, um automatisch die Slides zu generieren (CI)
+* GitHub Pages als Produktions-System (CD)
+
+=== Barrieren abbauen
+[.pattern-jigsaw]
+--
+
+--
+
+=== Hands-on Demo
+[.pattern-jigsaw]
+--
+
+--
+
+https://github.com/dbsystel/deep-dive-devops-innersource-opensource
+
+[.notes]
+--
+* Quellen für Frage aus Intro zeigen
+* File in GitHub editieren und die Antworten hinzufügen
+* Committen
+* Zeigen, wie die Pipeline läuft
+* Generiertes HTML zeigen?
+* Angepasste Slides zeigen
+--
+
