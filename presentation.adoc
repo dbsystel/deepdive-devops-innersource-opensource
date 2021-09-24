@@ -1,4 +1,5 @@
 = Deep Dive: DevOps, Inner Source, Open Source - Muster des Gelingens
+:revealjsdir: revealjs
 :revealjs_theme: white
 :customcss: css/db.css
 :revealjs_slideNumber: c/t
