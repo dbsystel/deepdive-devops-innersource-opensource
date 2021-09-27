@@ -121,7 +121,8 @@ Zusammenarbeit über Organisationsgrenzen hinweg
 
 === Hands-on Demo
 
-https://github.com/dbsystel/deep-dive-devops-innersource-opensource
+[.small]
+https://github.com/dbsystel/deepdive-devops-innersource-opensource/blob/main/feedback.adoc
 
 [.notes]
 --
