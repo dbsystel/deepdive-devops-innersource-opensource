@@ -20,10 +20,6 @@ Dev und Ops wachsen zusammen.
 --
 
 === Slides as Code
-[.pattern-jigsaw]
---
-
---
 
 [%step]
 * AsciiDoc-Code als Quelle für die Slides
@@ -37,10 +33,6 @@ Dev und Ops wachsen zusammen.
 --
 
 === Hands-on Demo
-[.pattern-jigsaw]
---
-
---
 
 https://github.com/dbsystel/deep-dive-devops-innersource-opensource
 
@@ -52,5 +44,6 @@ https://github.com/dbsystel/deep-dive-devops-innersource-opensource
 * Zeigen, wie die Pipeline läuft
 * Generiertes HTML zeigen?
 * Angepasste Slides zeigen
+* Github-Account für spätere Teilnahme notwendig
 --
 

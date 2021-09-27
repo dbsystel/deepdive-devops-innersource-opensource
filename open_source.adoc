@@ -48,10 +48,13 @@ https://opensource.org/osd
 
 === !
 
+[.bigger-text]
 Governance?
 
+[.bigger-text]
 Support?
 
+[.bigger-text]
 Nachhaltigkeit?
 
 === Peer Production
@@ -76,17 +79,17 @@ _"Those who do the work, decide"_
 * Mut, um Neues zu probieren
 
 === Reifegradmodell
-[.pattern-jigsaw]
+
+[.pattern-jigsaw-top]
 --
 
 --
 
-[.stretch]
-image::reifegradmodell.png[Reifegradmodell]
+image::reifegradmodell.png[Reifegradmodell, width=55%]
 
 [.columns.is-vcentered]
 === Contribution-Prozess
-[.pattern-jigsaw]
+[.pattern-jigsaw-top]
 --
 
 --
@@ -104,6 +107,10 @@ https://github.com/dbsystel/open-source-policies
 image:contribution-richtlinie.png[]
 
 === Barrieren abbauen
+[.pattern-jigsaw]
+--
+
+--
 
 [.notes]
 --
