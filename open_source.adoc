@@ -1,0 +1,127 @@
+== Open Source
+
+=== Community
+
+[quote, Joys's law]
+"no matter who you are, most of the smartest people work for someone else"
+
+[.notes]
+--
+Beispiel: 60 Millionen User auf GitHub
+Black hole analysis
+Mars helicopter
+--
+
+[.columns.is-vcentered]
+=== Open-Source-Lizenzen
+[.pattern-jigsaw]
+--
+
+--
+
+[.column]
+--
+image:osi_logo.png[width=50%]
+--
+
+[.column.has-text-left]
+--
+*Vier Freiheiten*
+
+* Verwenden
+* Verstehen
+* Verbessern
+* Verteilen
+
+*Open Source Definition*
+
+https://opensource.org/osd
+--
+
+[.notes]
+--
+* Standardlizenzen
+* Einsatz ohne Verhandlung
+* Barriere für Einsatz ist niedrig
+* Beschleunigt Innovation
+--
+
+=== !
+
+Governance?
+
+Support?
+
+Nachhaltigkeit?
+
+=== Peer Production
+[.pattern-jigsaw]
+--
+
+--
+
+_"Those who do the work, decide"_
+
+[.notes]
+--
+* Arbeiten auf Augenhöhe
+* Zusammenarbeit zum Zweck der Sache
+* Autorität durch Aktivität und Kompetenz nicht durch Position oder Firmenzugehörigkeit
+--
+
+=== Mut
+
+* Mut, um öffentlich zu arbeiten
+* Mut, um großzügig zu sein
+* Mut, um Neues zu probieren
+
+=== Reifegradmodell
+[.pattern-jigsaw]
+--
+
+--
+
+[.stretch]
+image::reifegradmodell.png[Reifegradmodell]
+
+[.columns.is-vcentered]
+=== Contribution-Prozess
+[.pattern-jigsaw]
+--
+
+--
+
+[.column]
+--
+* Expliziter Prozess zum Engagement in der Community
+* Beispiel: DB Systel Open Source Contribution Richtlinie
+
+[.small]
+https://github.com/dbsystel/open-source-policies
+--
+
+[.column]
+image:contribution-richtlinie.png[]
+
+=== Barrieren abbauen
+
+[.notes]
+--
+Nutzer und Entwickler interagieren direkter
+
+Zusammenarbeit über Organisationsgrenzen hinweg
+--
+
+=== Hands-on Demo
+
+https://github.com/dbsystel/deep-dive-devops-innersource-opensource
+
+[.notes]
+--
+* Quellen für Feedback-Slide zeigen
+* Eventuell leeres Feedback-Slide zeigen (Links vor und zurück auf Slides)
+* Teilnehmer auffordern, Feedback als Pull-Request einzustellen
+* Eventuell ersten Pull-Request zeigen
+* Mergen parallel zum Rest der Session
+* Feedback-Slide zum Schluss zeigen
+--

@@ -1,0 +1,17 @@
+= deepdive-devops-innersource-opensource
+
+See https://docs.asciidoctor.org/reveal.js-converter/latest/setup/node-js-setup/ on how to build this reveal.js presentation.
+
+== Current TODOs
+
+* [x] Setup structure and include in presentation.adoc
+* [x] Import white.css theme and customize to meet Systel-CI
+* [ ] Release clean version to github.com
+* [ ] Add github-Actions to build an merge to main
+* [ ] Configure github-pages
+* [ ] Add URL of presentation to slides
+* [ ] Add URL of page to edit feedback to slides
+
+== License
+
+The content is licensed under https://creativecommons.org/licenses/by/4.0/[CC-BY 4.0]

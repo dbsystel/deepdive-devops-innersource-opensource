@@ -1,0 +1,34 @@
+= Deep Dive: DevOps, Inner Source, Open Source - Muster des Gelingens
+:revealjsdir: revealjs
+:revealjs_theme: white
+:customcss: css/db.css
+:revealjs_slideNumber: c/t
+:revealjs_width: 1600
+:revealjs_height: 900
+:revealjs_controlsBackArrows: hidden
+:revealjs_controls: false
+:title-slide-background-image: facetten_unten_blau.png
+:title-slide-background-size: cover
+:revealjs_parallaxBackgroundImage: css/images/facetten_unten_grau.png
+:revealjs_parallaxBackgroundSize: 2000px 2092px
+:imagesdir: css/images
+
+[.title-slide-red-stripe]
+--
+
+--
+
+[.notes]
+--
+Drei Themen, die zusammen gehören. Wir wollen Muster identifizieren, die wir als erfolgreich erlebt haben. Am Ende werden wir versuchen, den Bogen zu schlagen, wie sich die Muster aus den drei Bereichen gegenseitig ergänzen.
+--
+
+include::agenda.adoc[]
+
+include::devops.adoc[]
+
+include::inner_source.adoc[]
+
+include::open_source.adoc[]
+
+include::fazit.adoc[]
