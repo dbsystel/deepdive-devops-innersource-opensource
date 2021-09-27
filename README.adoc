@@ -6,11 +6,11 @@ See https://docs.asciidoctor.org/reveal.js-converter/latest/setup/node-js-setup/
 
 * [x] Setup structure and include in presentation.adoc
 * [x] Import white.css theme and customize to meet Systel-CI
-* [ ] Release clean version to github.com
-* [ ] Add github-Actions to build an merge to main
-* [ ] Configure github-pages
-* [ ] Add URL of presentation to slides
-* [ ] Add URL of page to edit feedback to slides
+* [x] Release clean version to github.com
+* [x] Add github-Actions to build an merge to main
+* [x] Configure github-pages
+* [x] Add URL of presentation to slides
+* [x] Add URL of page to edit feedback to slides
 
 == License
 
