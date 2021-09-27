@@ -2,6 +2,8 @@
 
 === Der Kreis schließt sich
 
+image:triangle_devops_innersource_opensource.png[triangle, width=30%]
+
 Muster wiederholen sich:
 
 * Barrieren abbauen

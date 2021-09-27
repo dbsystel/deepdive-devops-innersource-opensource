@@ -85,6 +85,10 @@ https://patterns.innersourcecommons.org/
 image:innersource-patterns-book-cover.jpeg[width=55%]
 
 === Barrieren abbauen
+[.pattern-jigsaw]
+--
+
+--
 
 [.notes]
 --

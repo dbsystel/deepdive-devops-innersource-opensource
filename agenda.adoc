@@ -28,7 +28,6 @@ Cornelius Schumacher
 * Slides als Impuls
 * Hands-on Demo
 * Fragen, Diskussion
-* Nicht vergessen zu erwähnen: Github-Account für Teilnahme notwendig
 --
 
 === Muster
