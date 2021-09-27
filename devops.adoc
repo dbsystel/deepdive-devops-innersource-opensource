@@ -26,6 +26,16 @@ Dev und Ops wachsen zusammen.
 * GitHub Actions Pipeline, um automatisch die Slides zu generieren (CI)
 * GitHub Pages als Produktions-System (CD)
 
+=== Slides
+
+GitHub Repository:
+
+https://github.com/dbsystel/deepdive-devops-innersource-opensource
+
+Präsentation:
+
+https://dbsystel.github.io/deepdive-devops-innersource-opensource/presentation.html
+
 === Barrieren abbauen
 [.pattern-jigsaw]
 --
