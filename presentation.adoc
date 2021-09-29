@@ -1,4 +1,4 @@
-= Deep Dive: DevOps, Inner Source, Open Source - Muster des Gelingens
+= Deep Dive: DevOps, Inner Source, Open Source -- Muster des Gelingens
 :revealjsdir: revealjs
 :revealjs_theme: white
 :customcss: css/db.css
