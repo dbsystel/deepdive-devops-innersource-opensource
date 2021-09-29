@@ -44,9 +44,9 @@ Manche Muster tauchen in den drei Bereichen wiederholt auf, in der selben Form o
 
 Würdest du dich als Techie einordnen?
 
-1. Ja
-2. Nein
-3. Möchte mich nicht festlegen
+1. Ja (5)
+2. Nein (7)
+3. Möchte mich nicht festlegen (1)
 
 [.notes]
 --
