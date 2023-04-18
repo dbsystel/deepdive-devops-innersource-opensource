@@ -1,16 +1,20 @@
-= deepdive-devops-innersource-opensource
+= Deep Dive DevOps, Innter Source, Open Source
+
+This repository contains the slides for a presentation held in DB Systel's Outside-In format on Sep 29th 2021. The slides itself were part of illustrating how to apply Inner Source, Open Source, and DevOps principles.
+
+== Original abstract (in German)
+
+DevOps, Inner Source, Open Source - Muster des Gelingens
+
+Darauf darfst du dich freuen: DevOps, Inner Source und Open Source. Alles Schlagworte, die in der Softwareentwicklung einen großen Platz einnehmen. Doch wie spielen sie zusammen? Und müssen sie das überhaupt, wenn die Implementierung gelingen soll?
+
+Wir teilen unsere Erfahrungen mit den drei Themenbereichen und zeigen Muster auf, die sich bei uns als erfolgreich herausgestellt haben. Gerne kommen wir dazu in den Austausch, denn nicht jedes Umfeld ist gleich.
+
+Nach einer Einführung zeigen wir Hands-On und zum Mitmachen am lebenden Beispiel, wie diese Muster implementiert werden können.
+
+== Build instructions
 
 See https://docs.asciidoctor.org/reveal.js-converter/latest/setup/node-js-setup/ on how to build this reveal.js presentation.
-
-== Current TODOs
-
-* [x] Setup structure and include in presentation.adoc
-* [x] Import white.css theme and customize to meet Systel-CI
-* [x] Release clean version to github.com
-* [x] Add github-Actions to build an merge to main
-* [x] Configure github-pages
-* [x] Add URL of presentation to slides
-* [x] Add URL of page to edit feedback to slides
 
 == License
 
