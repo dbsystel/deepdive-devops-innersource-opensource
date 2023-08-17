@@ -1,4 +1,4 @@
-= Deep Dive DevOps, Innter Source, Open Source
+= Deep Dive DevOps, Inner Source, Open Source
 
 This repository contains the slides for a presentation held in DB Systel's Outside-In format on Sep 29th 2021. The slides itself were part of illustrating how to apply Inner Source, Open Source, and DevOps principles.
 
